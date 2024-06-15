@@ -1,10 +1,11 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
 <h1 align="center">Hi 👋, I'm Sunny Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" width="400"<img src="[https://komarev.com/ghpvc/?username=mrskjha&label=Profile%20views&color=0e75b6&style=flat](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajI3ZGxmdTZncnRnM3UyMjRlc2ZjYmYyeDJzeDZycnA1MjVweHpmeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/QDjpIL6oNCVZ4qzGs7/giphy.webp)" alt="mrskjha"/>
+<img align="right" width="400"<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="mrskjha"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrskjha&label=Profile%20views&color=0e75b6&style=flat" alt="mrskjha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrskjha" alt="mrskjha" /></a> </p>
+
+
 
 <p align="left"> <a href="https://twitter.com/mr_sunny_jha" target="blank"><img src="https://img.shields.io/twitter/follow/mr_sunny_jha?logo=twitter&style=for-the-badge" alt="mr_sunny_jha" /></a> </p>
 
