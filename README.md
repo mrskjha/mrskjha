@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://sunnyjha.netlify.app/](https://sunnyjha.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sunnyjha.netlify.app/](https://sunny3dportfolio.netlify.app/)
 
 - 💬 Ask me about **C,C++,Python,JAVA SCRIPT,REACT**
 
