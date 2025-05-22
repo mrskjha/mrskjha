@@ -24,7 +24,11 @@
 <a href="https://twitter.com/mr_sunny_jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr_sunny_jha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sunny-jha-41687026b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunny-jha-41687026b" height="30" width="40" /></a>
 <a href="https://instagram.com/mr.sunny__jha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr.sunny__jha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jhasunny550" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jhasunny550" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/mrskjha/" target="_blank">
+  <img align="center" src="https://img.icons8.com/?size=512w&id=wDGo581Ea5Nf&format=png" alt="mrskjha" height="30" width="40" />
+</a>
+
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
