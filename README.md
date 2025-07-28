@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN**
 
-- 👨‍💻 All of my projects are available at [https://mrskjha.tech](https://mrskjha.tech)
+- 👨‍💻 All of my projects are available at [Portfolio](https://mrskjha.tech)
 
 - 💬 Ask me about **C,C++,Python,JAVA SCRIPT,REACT**
 
